@@ -1,0 +1,29 @@
+{
+    "animals": [
+        {
+            "type": "Bird",
+            "name": "Попугай",
+            "age": 2
+        },
+        {
+            "type": "Mammal",
+            "name": "Тигр",
+            "age": 5
+        },
+        {
+            "type": "Reptile",
+            "name": "Змея",
+            "age": 3
+        }
+    ],
+    "employees": [
+        {
+            "type": "ZooKeeper",
+            "name": "Анна"
+        },
+        {
+            "type": "Veterinarian",
+            "name": "Доктор Федоров"
+        }
+    ]
+}

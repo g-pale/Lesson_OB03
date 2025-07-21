@@ -1,0 +1,29 @@
+{
+    "animals": [
+        {
+            "type": "Bird",
+            "name": "Parrot",
+            "age": 2
+        },
+        {
+            "type": "Mammal",
+            "name": "Tiger",
+            "age": 5
+        },
+        {
+            "type": "Reptile",
+            "name": "Snake",
+            "age": 3
+        }
+    ],
+    "employees": [
+        {
+            "type": "ZooKeeper",
+            "name": "Alice"
+        },
+        {
+            "type": "Veterinarian",
+            "name": "Dr. Bob"
+        }
+    ]
+}
